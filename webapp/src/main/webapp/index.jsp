@@ -1,4 +1,9 @@
+<%@ page contentType="text/css" %>
 <html>
+<head>
+<title>Jenkins Home work</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
 <body>
 <style>
  body{
