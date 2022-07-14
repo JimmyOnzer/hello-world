@@ -1,4 +1,4 @@
-<style><%@include file="style.css"%></style>
+
 <html>
 <head>
 <title>Jenkins Home work</title>
