@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>Jenkins Home work</title>
+<title>Jenkins Home Work</title>
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
 
